@@ -54,7 +54,7 @@ A comprehensive real-time team collaboration platform built with FastAPI (backen
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Amanastel/SyncSpace
 cd SyncSpace
 ```
 
